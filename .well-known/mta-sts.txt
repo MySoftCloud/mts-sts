@@ -1,7 +1,11 @@
 version: STSv1
-mode: enforce
-a: 216.239.32.21
-a: 209.85.217.43
-mx: gmail-smtp-in.l.google.com
-mx: *.gmail-smtp-in.l.google.com
-max_age: 86400
+mode: production
+mx: alt4.aspmx.l.google.com
+mx: alt3.aspmx.l.google.com
+mx: in.smtp.mysoftcloud.com
+mx: alt2.aspmx.l.google.com
+mx: alt1.aspmx.l.google.com
+mx: aspx.l.google.com
+mx: prod.outlook.com
+mx: protection.outlook.com
+max_age: 604800
