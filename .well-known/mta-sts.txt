@@ -1,0 +1,7 @@
+version: STSv1
+mode: enforce
+a: 216.239.32.21
+a: 209.85.217.43
+mx: gmail-smtp-in.l.google.com
+mx: *.gmail-smtp-in.l.google.com
+max_age: 86400
