@@ -1,1 +1,13 @@
-v:STSv1;mode: testing;mx: alt4.aspmx.l.google.com;mx: alt3.aspmx.l.google.com;mx: in.smtp.mysoftcloud.com;mx: alt2.aspmx.l.google.com;mx: alt1.aspmx.l.google.com;mx: aspx.l.google.com;mx: prod.outlook.com;mx: protection.outlook.com;max_age: 604800;
+{
+                        "version": "STSv1",
+                        "mode": "testing",
+                        "mx": [alt4.aspmx.l.google.com],
+                        "mx": [alt3.aspmx.l.google.com],
+                        "mx": [in.smtp.mysoftcloud.com],
+                        "mx": [alt2.aspmx.l.google.com],
+                        "mx": [alt1.aspmx.l.google.com],
+                        "mx": [aspx.l.google.com],
+                        "mx": [prod.outlook.com],
+                        "mx": [protection.outlook.com],
+                        "max_age": 604800
+}
